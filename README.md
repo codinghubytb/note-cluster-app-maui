@@ -13,3 +13,7 @@ NoteCluster is an innovative note-taking app designed to enhance productivity an
 
 1. Download from [Google Play Store](https://play.google.com/store/apps/details?id=com.codinghub.notecluster).
 2. Install on your device.
+
+## Contact
+
+Have suggestions or questions? Reach out via our integrated contact form or email us at **codinghub@gmail.com**.
